@@ -1,0 +1,3 @@
+for version 4.1 of the ideaspark 1.14 esp32 based on lillygo/ttgo t-display
+(make backups and a not to remind you you changed these files i drop a note in the tft dir) copy the user setup select to the Arduino\libraries\TFT_eSPI directory. copy the setup25 file to Arduino\libraries\TFT_eSPI\User_Setups. pull the ino and bitmap into arduino ide set the hardware and port options and flash. 
+issues. im not a very good programmer. i just started with this board. the batt and touch pins are not all set up. not sure what to pare down to yet. feel free to use the code. i did. thanks to lillygo and yellobyte@bluewin.ch
